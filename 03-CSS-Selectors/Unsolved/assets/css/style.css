@@ -5,7 +5,7 @@
 
 /* TODO: Label selector type */
 body {
-  background-color: lemonchiffon;
+  background-color: goldenrod;
 }
 
 header,
@@ -13,13 +13,17 @@ footer {
   width: 100%;
   height: 100px;
   line-height: 100px;
-  color: #f0ead6;
-  background-color: #191970;
+  color: blueviolet;
+  background-color: gold;
 }
 
 figure {
   width: 200px;
-  background-color: #f0ead6;
+  background-color: pink;
+}
+img{
+  width: 200px;
+  height: 200px;
 }
 
 /* TODO: Label selector type */
@@ -29,5 +33,4 @@ figure {
 
 /* TODO: Label selector type */
 #contact-section {
-  background-color: #f0ead6;
-}
+  background-color: gold}
